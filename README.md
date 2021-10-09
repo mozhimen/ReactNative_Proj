@@ -1,2 +1,2 @@
 # ReactNativeDemo
-ReactNativeDemo
+ReactNative_Proj
